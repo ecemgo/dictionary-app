@@ -15,7 +15,8 @@ This is an app where users are able to be looking for words and finding their me
 <img src="https://user-images.githubusercontent.com/13468728/225278736-03ada017-e42b-4a3b-bf8b-cc0c9a4ddcb0.jpg" title="Dictionary App" alt="Dictionary App" width="600" height="350"/>
 <h3>Dark Mode</h3>
 <img src="https://user-images.githubusercontent.com/13468728/225278760-70d986bf-ac6c-4b4a-8928-1183647fc171.jpg" title="Dictionary App" alt="Dictionary App" width="600" height="350"/>
-<img src="https://user-images.githubusercontent.com/13468728/225278802-c1e2f35e-d7af-42a1-a40c-c22718eba2e5.jpg" title="Dictionary App" alt="Dictionary App" width="280" height="550"/>
+<h3>Responsive Layout</h3>
+<img src="https://user-images.githubusercontent.com/13468728/225281032-79cd6a11-afd9-4e09-93a6-f7be7b830c7c.jpg" title="Dictionary App" alt="Dictionary App" width="380" height="550"/>
 </div>
 
 ## The process
