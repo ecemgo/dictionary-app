@@ -6,7 +6,7 @@ This is an app where users are able to be looking for words and finding their me
 
 ### Link
 
-- [Live Site URL](https://ecemgo-dictionary-app.netlify.app/)
+- [Live Site](https://ecemgo-dictionary-app.netlify.app/)
 
 ### Screenshot
 
@@ -40,5 +40,6 @@ This is an app where users are able to be looking for words and finding their me
 ## Author
 
 - Website - [ecemgo.com](https://www.ecemgo.com/)
-- Twitter - [@ecemgo](https://twitter.com/ecemgo)
 - Frontend Mentor - [@ecemgo](https://www.frontendmentor.io/profile/ecemgo)
+- Twitter - [@ecemgo](https://twitter.com/ecemgo)
+- CodePen - [@ecemgo](https://codepen.io/ecemgo)
